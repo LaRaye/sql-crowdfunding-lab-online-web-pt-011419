@@ -1,5 +1,5 @@
 CREATE TABLE projects
-  (id INTEGER PRIMARY key
+  (id INTEGER PRIMARY key,
   title TEXT,
   category TEXT,
   funding_goal INTEGER,
